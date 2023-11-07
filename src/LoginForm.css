@@ -76,9 +76,9 @@ section {
 #goHomeButton {
     position: absolute;
     text-decoration: none;
-    top: 100px;
+    top: 180px;
     /* Distancia desde la parte superior de la página */
-    left: 250px;
+    left: 20px;
     /* Distancia desde la izquierda de la página */
     flex-basis: 40%;
     min-width: 150px;
